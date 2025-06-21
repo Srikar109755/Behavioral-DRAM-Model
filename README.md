@@ -31,7 +31,7 @@ This project models a simplified DRAM that implements:
 
 ## 🖼 Block Diagram
 
-![DRAM Block Diagram](https://raw.githubusercontent.com/Srikar109755/DRAM_Model/main/DRAM/images/DRAM_Block_Diagram.png)
+![DRAM Block Diagram](https://raw.githubusercontent.com/Srikar109755/Behavioral-DRAM-Model/main/DRAM_Model/images/DRAM_Block_Diagram.png)
 
 ---
 
